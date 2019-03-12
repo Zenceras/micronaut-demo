@@ -1,4 +1,4 @@
-##0. Micronaut demo
+## 0. Micronaut demo
 
 Run the application
 
